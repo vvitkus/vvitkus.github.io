@@ -85,6 +85,7 @@ div {
 .index {
 	margin-top: -40px;
 	margin-right: 160px;
+	position: absolute;
 }
 #facebook {
 	border: 3px solid #2F4F4F;
